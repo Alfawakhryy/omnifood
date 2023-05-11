@@ -2,7 +2,7 @@
 
 Omnifood is a fully responsive, single-page web application designed for a fictional food delivery service. The project showcases a variety of meal plans, pricing options, and customer testimonials. It was built using HTML, CSS, and JavaScript, demonstrating best practices in modern web design.
 
-![Omnifood Logo](./omnifood-logo.png)
+![Omnifood Logo](./img/omnifood-logo.png)
 
 ## Contents
 
