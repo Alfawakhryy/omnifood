@@ -25,3 +25,13 @@ Omnifood is a fully responsive, single-page web application designed for a ficti
 To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
+git clone https://github.com/alfawkhryy/omnifood.git
+
+2. Change to the project directory:
+
+cd omnifood
+
+3 Open the index.html file in your preferred web browser.
+
+
+
