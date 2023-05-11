@@ -6,8 +6,13 @@ Omnifood is a fully responsive, single-page web application designed for a ficti
 
 ## Contents
 
+- [Live Demo](#live-demo)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
+
+## Live Demo
+
+Check out the live demo of the Omnifood project on Netlify: []()
 
 ## Key Features
 
