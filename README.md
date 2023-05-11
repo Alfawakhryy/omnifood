@@ -8,9 +8,6 @@ Omnifood is a fully responsive, single-page web application designed for a ficti
 
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Key Features
 
